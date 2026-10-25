@@ -1,0 +1,5 @@
+Experiment_ID,Time_min,Temperature_C,Pressure_bar,Concentration_mol_L
+EXP001,20,35,1.1,0.84
+EXP001,30,40,1.15,0.76
+EXP002,10,32,1.08,1.05
+EXP002,20,39,1.14,0.91
